@@ -21,5 +21,28 @@
 			"moeda": "USD",
 			"valor": 3303197.85
 		}
+	], 
+	"exratoCBAN": [
+		{
+			"dataLancamento": 1012020,
+			"descLancamento": "REF DONO DA CTA//REF BANCO DA CTA  CPO DE 34 BYTES",
+			"tipoLancamento": "D",
+			"moeda": "USD",
+			"valor": 100
+		},
+		{
+			"dataLancamento": 1012020,
+			"descLancamento": "REF DO LANCTO 02//REF BANQ LCT 02",
+			"tipoLancamento": "D",
+			"moeda": "USD",
+			"valor": 111.11
+		},
+		{
+			"dataLancamento": 2012020,
+			"descLancamento": "REF DONO DA CTA//REF BANCO DA CTA  CPO DE 34 BYTES",
+			"tipoLancamento": "C",
+			"moeda": "USD",
+			"valor": 200
+		}
 	]
 }
