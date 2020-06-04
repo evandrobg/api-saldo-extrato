@@ -44,5 +44,55 @@
 			"moeda": "USD",
 			"valor": 200
 		}
+	],
+	"saldo": [ 
+		{
+			"id": 1861,
+			"agencia": 4901,
+			"conta": 90100026,
+			"codigoPais": 46,
+			"banco": 237,
+			"moeda": 8,
+			"tag25": "49019010002",
+			"bicCode": "BFATBRS1",
+			"tipoConta": "M",
+			"codigoEmpresa": 1657,
+			"descPais": "BRASIL",
+			"descBanco": "BANCO FATOR SA",
+			"descMoeda": "DOLAR DOS EUA",
+			"saldo": 0
+		},
+		{
+			"id": 1861,
+			"agencia": 0,
+			"conta": 0,
+			"codigoPais": 87,
+			"banco": 0,
+			"moeda": 15,
+			"tag25": "TESTECONTABGSL-MT940",
+			"bicCode": "BBDEBRS0BGS",
+			"tipoConta": "O",
+			"codigoEmpresa": 1657,
+			"descPais": "ESTADOS UNIDOS",
+			"descBanco": "BANCO BRADESCO GLOBAL SOLUTION",
+			"descMoeda": "EURO",
+			"saldo": 1800
+		},
+		{
+			"id": 1861,
+			"agencia": 0,
+			"conta": 0,
+			"codigoPais": 172,
+			"banco": 0,
+			"moeda": 15,
+			"tag25": "899941000",
+			"bicCode": "BBDELUL0XXX",
+			"tipoConta": "O",
+			"codigoEmpresa": 1657,
+			"descPais": "REINO UNIDO",
+			"descBanco": "",
+			"descMoeda": "EURO",
+			"saldo": 6779343.67
+		}
 	]
 }
