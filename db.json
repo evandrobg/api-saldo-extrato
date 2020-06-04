@@ -106,12 +106,6 @@
 		"nacionalidadeFemi": "BRASILEIRA",
 		"horarioOficial": "BRASILIA"
 	},
-	"banco": {
-		"codigoSwift": "ITAUBRSP",
-		"nomeBanco": "ITAU UNIBANCO S/A",
-		"cidade": "SAO PAULO",
-		"nomePais": "BRASIL"
-	},
 	"contas": [
 		{
 			"cCtaEmprCanalIntl": 51,
