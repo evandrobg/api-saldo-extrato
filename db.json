@@ -1,22 +1,22 @@
 {
   "extrato": [
     {
-      "dtLancamento": "2012-01-02T00:00:00Z[UTC]",
-      "descricao": "DEPOSITO M.E.0172113244",
-      "tpLancamento": "C",
+      "dataLancamento": "2012-01-02T00:00:00Z[UTC]",
+      "descLancamento": "DEPOSITO M.E.0172113244",
+      "tipoLancamento": "C",
       "moeda": "USD",
       "valor": 3289460.29
     },
     {
-      "dtLancamento": "2012-01-02T00:00:00Z[UTC]",
-      "descricao": "DEPOSITO M.E.0172113381",
+      "dataLancamento": "2012-01-02T00:00:00Z[UTC]",
+      "descLancamento": "DEPOSITO M.E.0172113381",
       "tipoLancamento": "C",
       "moeda": "USD",
       "valor": 3290865.37
     },
     {
-      "dtLancamento": "2012-01-02T00:00:00Z[UTC]",
-      "descricao": "DEPOSITO M.E.0172113382",
+      "dataLancamento": "2012-01-02T00:00:00Z[UTC]",
+      "descLancamento": "DEPOSITO M.E.0172113382",
       "tipoLancamento": "C",
       "moeda": "USD",
       "valor": 3303197.85
