@@ -94,5 +94,22 @@
 			"descMoeda": "EURO",
 			"saldo": 6779343.67
 		}
-	]
+	], 
+	"paises": {
+		"codigoContinente": 4,
+		"nomeContinente": "AMERICA DO SUL",
+		"codigoPais": 9,
+		"nomePais": "BRASIL",
+		"siglaPais": "BRA",
+		"siglaPaisIso": "BR",
+		"nacionalidadeMasc": "BRASILEIRO",
+		"nacionalidadeFemi": "BRASILEIRA",
+		"horarioOficial": "BRASILIA"
+	},
+	"banco": {
+		"codigoSwift": "ITAUBRSP",
+		"nomeBanco": "ITAU UNIBANCO S/A",
+		"cidade": "SAO PAULO",
+		"nomePais": "BRASIL"
+	}
 }
